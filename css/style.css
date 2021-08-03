@@ -134,3 +134,22 @@ span{
     color: #7C47BF;
     cursor:pointer;
 }
+
+.case-study-title, .case-study-subtitle{
+    margin-left: 30px;
+
+}
+
+.case-study-subtitle{
+    display: block;
+    margin-bottom: 15px;
+}
+
+.image{
+    display: block;
+    margin-bottom: 20px;
+}
+
+.case-study-content{
+    width: 900px;
+}
